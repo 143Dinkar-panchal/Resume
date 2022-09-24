@@ -1,0 +1,188 @@
+body{
+    background: rgb(23, 246, 3);
+    margin: 10px;
+}
+#details
+{
+    width: 40%;
+}
+#img
+{
+    width: 170px;
+    height: 190px;
+    margin-left: 630px;
+    border: solid 3px red;
+    position: absolute;
+    top: 42px;
+    border-radius: 5px;
+}
+
+#head
+{
+    margin-left: 10px;
+    font-size: large;
+    font-weight:lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    cursor: pointer;
+    background: white;
+    padding: 5px;
+    padding-left: 10px;
+    border: solid 3px red;
+    border-radius: 15px;
+}
+#career
+{
+    margin-left: 10px;
+    border: solid 3px red;
+    margin-top: 10px;
+    padding-left: 10px;
+    background: rgba(9, 245, 5, 0.492);
+    font-size: large;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    border-radius: 15px;
+    color: indigo;
+
+}
+#btn
+{
+    margin-left: 1200px;
+    position: absolute;
+    top: 350px;
+    width: 130px;
+    height: 40px;
+    background-color: crimson;
+    color: white;
+    font-size: large;
+    font-weight: lighter;
+    font-style: normal;
+    border-radius: 10px;
+}
+.button
+{
+    margin-left: 1300px;
+    background: green;
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: solid 3px rgb(228, 28, 6);
+    margin-top: 7px;
+    
+    
+}
+#java
+{
+    background: rgba(255, 219, 16, 0.988);
+    border: solid 3px red;
+    margin: 10px;
+    margin-right: 0PX;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    padding-left: 10px;
+    border-radius: 15px;
+    color: blue;
+    cursor: pointer;
+    height: 910px;
+}
+#springboot
+{
+    border: solid 3px red;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: lighter;
+    background: rgb(0, 255, 77);
+    margin-left: 56%;
+    margin-top: -17%;
+    border-radius: 15px;
+    cursor: pointer;
+    color: darkmagenta;
+    width: 40%;
+}
+
+#sql
+{
+    border: solid 3px red;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: lighter;
+    border-radius: 15px;
+    cursor: pointer;
+    color: darkmagenta;
+    background-color: aqua;
+    width: 40%;
+    margin-left: 56%;
+    margin-top: -35%;
+}
+#web
+{
+    border: solid 3px red;
+    padding-left: 10px;
+    margin-top: 280px;
+    height: 255px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: lighter;
+    border-radius: 15px;
+    cursor: pointer;
+    color: rgb(241, 254, 3);
+    background-color: rgb(6, 153, 244);
+    width: 44%;
+    /* margin-left: 50%; */
+
+
+}
+.java  ,.j2ee
+{
+    background: deeppink;
+    width: 50%;
+    border: solid 3px red;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#skillset
+{
+    background: rgb(200, 8, 243);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: lighter;
+    width: 52%;
+    margin-top: -255px;
+    padding: 10px;
+    border: solid 3px red;
+    border-radius: 15px;
+    margin-left: 46%;
+    
+}
+p{
+    border: solid 3px red;
+    width: 70%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    background-color: deeppink;
+    color: white;
+    /* padding: 10px; */
+}
+h2
+{
+    background-color: darkorange;
+    width: 50%;
+    border: solid 3px red;
+    border-radius: 10px;
+    
+}
+h2:hover ,p:hover
+{
+    color: rgb(12, 4, 246);
+    background-color: gold;
+    font-style: italic;
+}
